@@ -1,0 +1,6 @@
+step1: npm install gh-pages
+step2: git remote add origin gir-repo-url
+step3: add homepage and predeploy and deploy script in package.json 
+step4: npm run deploy
+
+for hosting react router user HashRouter in place of BrowserRouter

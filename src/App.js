@@ -3,7 +3,7 @@ import Menu from './Components/Menu';
 import About from './Components/About';
 import Contact from './Components/Contact';
 //import {BrowserRouter as router, Route} from 'react-router-dom'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { HashRouter as Router, Route, Switch } from 'react-router-dom'
 import Footer from './Components/Footer';
  
 // import logo from './logo.svg';
